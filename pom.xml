@@ -42,6 +42,7 @@
         <version>4.3.0</version>
         <configuration>
           <repoToken>4cUmjMICzytiP7jd9N1800VEQnodlGrwX</repoToken>
+		<sourceEncoding>UTF-8</sourceEncoding>
         </configuration>
       </plugin>
 			
